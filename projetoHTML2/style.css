@@ -1,0 +1,109 @@
+/* Geral -----------------------------------------------------------------------------*/
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 150px;
+    border-radius: 30%;   
+ }
+li{
+   list-style: none;
+}
+li a{
+    text-decoration: none;
+}
+ /* HEARDER ----------------------------------------------------------------------------*/
+.wrapper {
+    height: 100vh;
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+}
+
+.header {
+    background-color: rgb(5, 108, 108);
+    min-height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main .header{
+    background-image: url(./img/banner.png);
+    background-repeat: none;
+    background-size: cover;
+}
+.m-header__name{
+    font-size: 4em;
+    font-family: Arial black;
+    color: transparent;
+    -webkit-text-stroke: 2px rgb(104, 104, 104);
+}
+/* BODY MENU -------------------------------------------------------------------*/
+.content .menu a img{
+    margin: 40px 33px 0px 33px;
+    box-shadow: 5px 10px 10px black;
+}
+.menu {
+    overflow: hidden;
+    height: 100%;
+    width: 20%;
+    background-color: rgb(230, 229, 229);
+    padding: 10px 20px 0px;
+    border-radius: 10px;
+    display: grid;
+    justify-content: space-around;
+}
+.content {
+    display: flex;
+    height: 100%;
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+ul li a.c-menu__link{
+    font-size: 1.8em;
+    color: rgb(46, 43, 115);
+    font-family: monospace;
+}
+ul li{
+    padding: 15px;
+}
+
+/* BODY POSTAGEM ----------------------------------------------------------------*/
+.m-content__postagem{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.m-content__postagem1{
+    flex: 1 0 50%;
+    background-color: red;    
+}
+.m-content__postagem2{
+    flex: 1 0 50%;
+    background-color: red;    
+}
+.m-content__postagem3{
+    flex: 1 0 100%;
+    background-color: green;
+}
+
+/* FOOTER ----------------------------------------------------------------------*/
+.footer {
+    background-color: rgb(46, 43, 115);
+    min-height: 150px;
+    border-radius: 20px;
+    
+}
