@@ -1,8 +1,4 @@
-# MEUS PROJETOS
-
-Olá! Aqui estão alguns dos projetos de programação nos quais trabalhei.
-
-## Projeto inicial de  HTML
+# Projeto inicial de HTML
 
 Este é um projeto simples de um formulario que fiz usando HTML.
 
