@@ -1,34 +1,34 @@
 
 # Meus Projetos de Programação
 
-Olá! Aqui estão alguns dos projetos de programação nos quais trabalhei.
+Olá! Aqui estão alguns dos projetos de programação do curso HTML com Diogo Mainardes da DIO.me .
 
-## Proejto HTML1
+## Projeto HTML1
 
 ```js
-- Tecnologias Frontend: HTML.
+- Tecnologias Frontend: HTML, CSS.
 - Funcionalidades: Primeiro projeto HTML semântica.
 
-Você pode ver o código do projeto aqui.
+Você pode ver o código do projeto em HTML1.
 
 ```
 
-## Proejto HTML2
+## Projeto HTML2
 
 ```js
-- Tecnologias Frontend: HTML.
+- Tecnologias Frontend: HTML, CSS.
 - Funcionalidades: Site PetShop para aprendizado HTML5.
 
-Você pode ver o código do projeto aqui.
+Você pode ver o código do projeto em HTML2.
 
 ```
 
-## Proejto HTML3
+## Projeto HTML3
 
 ```js
-- Tecnologias Frontend: HTML.
+- Tecnologias Frontend: HTML, CSS.
 - Funcionalidades: Site de treinamento de acessibilidade.
 
-Você pode ver o código do projeto aqui.
+VVocê pode ver o código do projeto em HTML3.
 
 ```
